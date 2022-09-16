@@ -4,6 +4,6 @@ This is my site. There are many like it but this one is mine.
 
 ## Static plot
 
-<div class="iframe-container" width=500 height=500>
-  <iframe src="iris.html"></iframe>
+<div class="iframe-container">
+  <iframe src="iris.html" width=700 height=600></iframe>
 </div>
