@@ -4,7 +4,7 @@ body {
   width: 88%;
 }
 
-iframe {
+iframe-container {
     width: 100%;
     height: 100%;
     aspect-ratio: 16 / 9;
